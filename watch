@@ -22,34 +22,33 @@ https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 #EXTINF:-1,ROK
 https://stream.ecable.tv/rok/index.m3u8
 #EXTINF:-1,YANGA
-https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1,spirit TV
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD/chunklist.m3u8EXTINF:-1, group-title="MUSIC",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1,DBM
+EXTINF:-1, group-title="MUSIC",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist.m3u8
-#EXTINF:-1,afrobeats
+EXTINF:-1, group-title="MUSIC",afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 ,VEVO HIP HOP Channel
+EXTINF:-1, group-title="MUSIC",VEVO HIP HOP Channel
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1 ,H!T Music Channel
+EXTINF:-1, group-title="MUSIC",H!T Music Channel
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1,Qello Concerts
+EXTINF:-1, group-title="MUSIC",Qello Concerts
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 ,404 Stingray Greatest Hits
+EXTINF:-1, group-title="MUSIC",Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:-1 ,405 Stingray Hit List
+EXTINF:-1, group-title="MUSIC",Stingray Hit List
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#EXTINF:-1 ,406 Stingray Classic Rock
+EXTINF:-1, group-title="MUSIC",Stingray Classic Rock
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:-1 ,407 Stingray Rock Alternative (1080p)
+EXTINF:-1, group-title="MUSIC",Stingray Rock Alternative (1080p)
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:-1 ,408 Stingray Pop Adult
+EXTINF:-1, group-title="MUSIC",Stingray Pop Adult
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:-1 ,409 Stingray Urban Beat
+EXTINF:-1, group-title="MUSIC",Stingray Urban Beat
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#EXTINF:-1 ,410 Stingray Hot Country
+EXTINF:-1, group-title="MUSIC",Stingray Hot Country
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-#EXTINF:-1 ,411 Stingray Flashback 70s
+EXTINF:-1, group-title="MUSIC",Stingray Flashback 70s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:-1 ,412 Stingray Everything 80s
+EXTINF:-1, group-title="MUSIC",Stingray Everything 80s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
