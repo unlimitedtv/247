@@ -23,7 +23,7 @@ https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 https://stream.ecable.tv/rok/index.m3u8
 #EXTINF:-1,YANGA
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1,spirit TV, tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png"
+#EXTINF:-1,spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1,DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist.m3u8
