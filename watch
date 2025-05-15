@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTM3U
 #EXTINF:-1,group-title="NEWS",CNN HD
 http://38.96.178.201:80/live/CNNHD/index.m3u8
